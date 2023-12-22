@@ -1,1 +1,1 @@
-# Sunnykumar9588-Capstone-Project-Of-Tableau-Data-Visualisations
+# Capstone-Project-Of-Tableau-Data-Visualisations
